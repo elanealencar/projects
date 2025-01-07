@@ -32,6 +32,7 @@ cd weatherapp
 
 ```typescript
 npm install
+```
 
 4. Compile o código TypeScript:
 
